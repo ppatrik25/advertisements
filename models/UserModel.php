@@ -21,8 +21,6 @@ class UserModel {
            else
            {
              echo "0 results";
-           }
-        
-           
+           }    
     }
 }
