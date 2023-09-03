@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
+body{
+    font-family: 'Exo', sans-serif;
+    background-color: hsl(120, 33%, 72%);
+}
+
+a {   
+    text-decoration: none;
+    color: rgb(2, 1, 0);
+    display: inline; 
+    
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+}
+
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
