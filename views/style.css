@@ -8,9 +8,9 @@ body{
 a {   
     text-decoration: none;
     color: rgb(2, 1, 0);
-    display: block; 
+    display: inline; 
+    
 }
-
 h1{
     text-align: center;
     font-size: 60px;
